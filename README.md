@@ -5,7 +5,7 @@
 Features
 ✅ Data preprocessing for handling missing values and outliers
 ✅ Exploratory Data Analysis (EDA) for feature insights
-✅ Implementation of multiple ML algorithms (Logistic Regression, Random Forest, SVM, etc.)
+✅ Implementation of multiple ML algorithms (Logistic Regression, SVM, etc.)
 ✅ Hyperparameter tuning for optimal performance
 ✅ Model evaluation using accuracy, precision, recall, and F1-score
 ✅ Interactive visualizations for better interpretability
